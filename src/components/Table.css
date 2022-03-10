@@ -1,0 +1,8 @@
+.Table {
+    width: 21em;
+    height: 21em;
+    background-color: white;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+}
